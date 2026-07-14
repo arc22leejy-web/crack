@@ -1,0 +1,10 @@
+streamlit
+scikit-learn
+pandas
+
+streamlit
+opencv-python-headless
+numpy
+pandas
+pillow
+xlsxwriter
